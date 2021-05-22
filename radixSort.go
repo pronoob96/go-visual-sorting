@@ -3,7 +3,7 @@ package main
 import "github.com/veandco/go-sdl2/sdl"
 
 const (
-	ex = 3
+	ex = 10
 )
 
 func getMax(arr []int32, n int) int32 {
